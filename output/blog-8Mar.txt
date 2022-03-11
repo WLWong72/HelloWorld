@@ -1,0 +1,1 @@
+You already know the benefits of enterprise automation and you’re ready to get started. You also know that UiPath gives you great platform options for both cloud and self-hosted delivery. So, now comes one of the important questions that impacts your program health: should you start your automation program on-premises or in cloud?

@@ -1,0 +1,143 @@
+How automation
+helps IT go from
+putting out fires to
+igniting innovation
+A UiPath e-bookIT equips the business with the
+transformational technologies to do
+amazing new things. That’s its mission.
+IT helps the business find smarter, faster,
+more innovative ways of working. It helps
+different departments automate the flow
+of information and workflows across the
+enterprise. It’s a big job.
+
+UIPATH.COM  |  HOW AUTOMATION HELPS IT GO FROM PUTTING OUT FIRES TO IGNITING INNOVATION 2But what about IT’s work? How much of it is
+automated, beyond python scripts and cron jobs?
+
+IT leaders may think they’ve automated everything
+they can. But have they? Automation keeps evolving
+and pushing the boundaries of what’s possible. In
+IT’s constant rush to deploy new technology, maintain
+existing tools and systems, and get users answers
+and support, it can be hard to take time and apply
+the same problem-solving mindset to its own work.
+Shouldn’t technology also make IT’s job easier?
+
+The answer is ‘yes.’ And here’s a quick look
+at how to do it.
+
+UIPATH.COM  |  HOW AUTOMATION HELPS IT GO FROM PUTTING OUT FIRES TO IGNITING INNOVATION 3Focusing on service
+as much as servers
+
+IT is finally getting the props it deserves
+as a driver of enterprise strategy. And it’s
+about time.
+
+But that doesn’t mean that IT departments
+give up on their commitments to serving
+their internal customers. Those people still
+need support. Their jobs are critical. The
+longer users wait, the more frustrated they
+become. And the more the business suffers.
+
+UIPATH.COM  |  HOW AUTOMATION HELPS IT GO FROM PUTTING OUT FIRES TO IGNITING INNOVATION 4So how can IT keep its seat at the leadership
+table without compromising on its service
+commitments? Automation is the answer.
+
+Automation fuels technologies such as
+chatbots that deliver answers to users’
+most common questions. It enables the
+self-service capabilities that help users help
+themselves. And it can also help IT manage
+service requests faster and make data and
+applications more accessible to users.
+
+UIPATH.COM  |  HOW AUTOMATION HELPS IT GO FROM PUTTING OUT FIRES TO IGNITING INNOVATION 5Net promoter scores and customer
+satisfaction metrics still matter, and
+automating the automatable aspects
+of service can actually improve the
+employee experience.
+
+Automation can help resolve user
+support issues sooner and reduce
+call volumes. That means employees
+—and IT teams—can focus on the work
+that makes a difference.
+
+UIPATH.COM  |  HOW AUTOMATION HELPS IT GO FROM PUTTING OUT FIRES TO IGNITING INNOVATION 6Ramping up IT’s bandwidth
+
+If people didn’t realize how much businesses
+depended on IT before, the pandemic made
+it crystal clear. IT departments were the
+reason that so many businesses could
+keep the doors open during COVID —at
+least metaphorically. Virtually overnight, IT
+workloads soared. But sudden spikes in
+demand for IT support are nothing new. Every
+new employee, every new application, every
+new security threat increases IT’s workload.
+The demand for IT support keeps growing,
+and there’s no end in sight.
+
+UIPATH.COM  |  HOW AUTOMATION HELPS IT GO FROM PUTTING OUT FIRES TO IGNITING INNOVATION 7IT budgets and staffing? They’re another story.
+Those don’t always grow at the same rate that.
+So what’s the answer?
+
+Automation can help IT scale up support capacity.
+IT can automate the infrastructure and operations
+processes to manage ever-growing networks, data
+centers, and cloud workloads. Automation can
+accelerate application management processes
+and help ensure security compliance. IT can even
+automate administrative processes in areas like the
+procurement of hardware, software, and services.
+Automation can give IT teams the capacity to drive
+the business forward, not hold it back.
+
+UIPATH.COM  |  HOW AUTOMATION HELPS IT GO FROM PUTTING OUT FIRES TO IGNITING INNOVATION 8Turning inspiration into
+digital transformation
+
+Business leaders talk a lot about digital
+transformation these days. They’ll announce
+how they want to take the friction out of the
+customer experience. They’ll discuss how they’re
+breaking down operational silos and streamlining
+collaboration. They’ll outline their plans for greater
+accountability and transparency.
+
+UIPATH.COM  |  HOW AUTOMATION HELPS IT GO FROM PUTTING OUT FIRES TO IGNITING INNOVATION 9Taking those big-picture projects from the drawing
+board to the real world is IT’s job. In fact, it’s IT
+leaders who help define the vision in the first place.
+
+For a growing number of organizations, automation
+is the catalyst for meaningful digital transformation.
+It accelerates the analysis for migration and testing
+that underlies every major project. It also helps
+bridge the gaps between cutting-edge technologies
+with groundbreaking capabilities and the legacy
+systems that businesses still rely on. And it opens
+the door to using predictive artificial intelligence
+and machine learning capabilities at the scale that
+turbocharges innovation.
+
+If you want to innovate, you have to automate.
+
+UIPATH.COM  |  HOW AUTOMATION HELPS IT GO FROM PUTTING OUT FIRES TO IGNITING INNOVATION 10Automation: Helping IT reboot
+the agenda for a new era of work
+
+A lot of the tasks we used to think couldn’t
+be automated now can be. And that’s also true
+for IT. Like every other technology, automation
+keeps evolving.
+
+Software robots can even take on a growing
+range of cognitive tasks that require judgment
+and analysis. The scope of use cases keeps
+expanding. So it’s only fair that IT gets to enjoy
+some of the same benefits of automation that
+the rest of us do. They’ve earned it.
+
+Want to learn more?
+Check out uipath.com.
+
+UIPATH.COM  |  HOW AUTOMATION HELPS IT GO FROM PUTTING OUT FIRES TO IGNITING INNOVATION 11

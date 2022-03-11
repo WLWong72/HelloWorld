@@ -1,0 +1,679 @@
+It’s Time to Automate Your IT
+Ecosystem
+IT organizations are under tremendous pressure to work more
+efficiently, decrease operating costs, drive innovation, and
+contribute more to defining and executing overarching company
+strategies. However, the day-to-day logistics of IT operations often
+stand in the way of such transformational change, burdening IT
+staff with time-consuming, mundane, and error-prone work.Contents
+
+03 Introduction
+04 Why automate with UiPath Automation Platform?
+07 Green IT
+08 What can you automate with UiPath?
+09 Automation in action: how IT teams use UiPath
+10 Expand your automation infrastructure
+11 How to get started on IT automation with UiPath
+12 References
+
+Introduction Impact of Covid-19
+and Remote Work*
+Traditionally, IT teams have relied on the knowledge and experience of their
+employees to ensure systems and applications work as required. However, 37%
+as technology has grown more complex and support workloads have
+increased, IT operations teams have struggled to keep pace. The COVID-19
+pandemic also introduced new challenges—increasing the pressure for IT to
+work more efficiently, decrease operating costs, and drive innovation. Increase in overall
+The UiPath Platform for the fully automated enterprise can take over the IT Workload
+onerous jobs that dominate so much of daily IT work. Robotic process
+automation (RPA) frees IT operations staff to support the business at a
+strategic level and add value in other ways. Organizations that implement a
+comprehensive, open RPA platform as the foundation can also more quickly 66%
+and securely expand their automation use across the enterprise, unlocking
+RPA’s full potential to lower operating costs, integrate existing systems,
+and improve the bottom line. The paper focuses specifically on how
+organizations can use RPA and artificial intelligence (AI) to achieve these Increase in
+benefits within the scope of IT operations. Security Issues
+
+39%
+Increase in ITSM
+Issues & Requests
+
+UIPATH.COM  |  IT’S TIME TO AUTOMATE YOUR IT INFRASTRUCTURE 2Major obstacles stand in the way of IT innovation,
+optimization
+IT organizations face a number of pressing challenges that prevent them from
+achieving cost savings, efficiency, performance, and strategic goals. However,
+RPA and AI can help address these concerns, paving the way for IT departments
+to work more effectively and efficiently.
+
+Resources tied up in infrastructure and system
+maintenance
+Perhaps the most immediate obstacle is the constant demand
+to maintain foundational IT infrastructure and ensure that all
+business systems continue to operate normally on a daily basis.
+The amount of time, energy, and resources devoted to “keeping
+the lights on” often precludes investments in other solutions
+that could improve IT operations and business outcomes.
+According to Deloitte, IT departments, on average, spend
+more than half of their budgets (56%) solely on maintaining
+current business processes. With so many resources tied up in
+those tasks, there’s little room in IT budgets to invest in more
+innovative solutions that could improve internal processes and
+reshape IT organizations.
+Manual, error-prone tasks
+Another major drain on IT resources is the sheer abundance
+of routine jobs that require manual work and are prone to
+human error. Such time-intensive tasks overwhelm IT staff and
+prevent them from taking on more strategic, value-driven work.
+In addition, correcting manual errors requires even more time
+from process and workflow stakeholders, exacerbating this
+issue further.
+Existing legacy automations may present inefficiencies,
+as well, if they are not properly managed. For instance, IT
+teams often write process scripts in silos, which prevents
+reuse opportunities since those scripts are created with
+only one application in mind and are rarely shared with
+other departments or business units. A siloed approach also
+introduces potential security and compliance risks because it
+provides less oversight and governance to manage and monitor
+all business processes.
+Highly distributed hybrid environments
+Today’s IT environments are highly distributed and consist
+of hybrid technologies, including on-premises applications,
+private and public clouds, and on-demand virtual machines.
+This disparate mix dramatically increases the responsibilities
+of IT operations teams who must manage distributed data
+systems, new apps and platform services, and ever-expanding
+networks. The increasing complexity makes it nearly impossible
+for IT teams to monitor environments in real time without the
+aid of automation.
+Organizational growth increases IT complexity
+There is also the issue of adapting IT environments to align with
+changing business demands. IT organizations need to stay agile
+and flexible, even as those environments grow increasingly
+complex and add more work for IT staff. In response, companies
+are often forced to increase their headcount to properly
+manage their IT environments. Spiceworks’ “2020 State of IT”
+report revealed that two of the top three reasons companies
+increase their IT budgets are to upgrade outdated infrastructure
+or bring more employees on board. Increased headcount
+and updated infrastructure don’t necessarily provide the
+flexibility IT organizations require to quickly respond to shifting
+business needs, however. Without a dramatic move away from
+reactive work, IT teams will continue to be overburdened and
+overwhelmed by the daily manual tasks that monopolize their
+workdays.
+
+UIPATH.COM  |  IT’S TIME TO AUTOMATE YOUR IT INFRASTRUCTURE 3Remote workforce support
+To further complicate matters, IT departments must account for an increasingly remote workforce in the
+aftermath of the COVID-19 pandemic. A May 2020 study conducted by Erik Brynjolfsson, Director of the Stanford
+Digital Economy Lab, found that approximately half of all full-time workers employed before the crisis had
+shifted to a remote work arrangement. Many industry analysts believe telecommuting will become a regular
+fixture of future businesses, even after the novel coronavirus pandemic slips into the history books. Gartner, for
+instance, predicts that 48% of full-time employees will work remotely after the COVID-19 crisis ends.
+Such disparate working environments, with various networks, systems, devices, and platforms to support will
+only add complexity to IT tasks and make it more difficult to work quickly and efficiently.
+
+Mandate to drive innovation and strategic vision
+With so many logistical challenges to address, IT leaders have little time to devote to organizational strategy.
+Yet, they are increasingly tasked with spearheading innovative projects that support overarching business
+strategies. Organizations look to their CIOs and IT department heads to map out technology roadmaps that
+incorporate cutting-edge solutions to open new business opportunities. Deloitte expects IT and finance leaders
+to closely collaborate on innovative projects over the next 18 to 24 months.
+Despite those mandates, IT leaders often lack the time, budget, manpower, or resources to achieve truly
+transformational innovation within the organization. Deloitte found that the average IT department devotes
+only 18% of its budget to building new business capabilities.
+Individually, these obstacles present daunting challenges for IT organizations to overcome. Combined, they
+may appear insurmountable. AI and RPA, in particular, present a viable path forward, reducing costs, increasing
+efficiencies, and freeing IT workers to address more strategic concerns that deliver the better business
+outcomes CIOs are primarily tasked with delivering.
+
+48% 56%
+of full-time budget spent by IT
+employees will work departments, on
+remotely after the average, solely on
+COVID-19 crisis ends. maintaining current
+– Gartner business processes
+– Deloitte
+
+UIPATH.COM  |  IT’S TIME TO AUTOMATE YOUR IT INFRASTRUCTURE 4An enterprise-grade RPA platform, Why automate with UiPath
+combined with AI, can dramatically
+accelerate the response to the growing Automation Platform?
+volume of IT service management (ITSM)
+requests. A 2019 Service Desk Institute Enterprise-scale RPA can reduce the cost and complexity of day-to-day
+survey highlighted the need and value of operations. Better yet, the value of RPA is easily provable without rolling
+ITSM automation: the dice on an “all or nothing” upfront investment. With the comprehensive
+UiPath Platform, a pilot program consisting of a few key automations can
+demonstrate early real-world ROI—and that foundation can quickly be
+75% expanded into other areas to deliver the fully automated enterprise.
+Optimize available resources and personnel
+of service desks The UiPath Platform helps organizations do more with the resources and
+listed automation as assets they already have. Most enterprises are riddled with repetitive manual
+processes that keep them from running at peak capacity. By automating such
+a top priority tasks, the UiPath Platform creates a domino effect that multiplies efficiency
+across other processes, operations, and business units.
+A transformative shift in IT operations is now possible due to RPA’s extensive
+reusability. Centralized Centers of excellence (CoE) provide a framework
+to build and share software robots with different departments, teams, and
+47% lines of business within the organization. Also, stakeholders can reuse RPA
+technology for different applications with minimal changes, increasing the
+return on investment and extending RPA’s benefits throughout the enterprise.
+The combination of RPA’s increased efficiency, reduced manual work,
+were interested in and streamlined workflows enables organizations to manage costs more
+effectively. According to Gartner, hyperautomation technologies such as RPA
+increasing self-service will enable companies to decrease their operating costs as much as 30% by
+capabilities 2024.
+Businesses can realize some of the biggest cost savings from the UiPath
+Platform by minimizing their reliance on manual processes that require
+constant management and oversight from human workers. KPMG estimates
+that “extreme automation” can decrease labor needs by 70% in certain
+scenarios.
+43% Enterprise-scale RPA, such as the UiPath Platform, can also help organizations
+control costs by supporting more efficient management of IT resources. For
+example, many businesses overspend on their cloud environments, whether
+due to overprovisioning resources, forgetting to spin down unused instances,
+wanted to improve or running instances around the clock unnecessarily. The Rightscale “2019
+their ITSM automation State of the Cloud Report” estimated that organizations waste approximately
+tools and find 35% of their cloud spend. By automating cloud workflows, IT organizations
+can drastically reduce unnecessary expenditures and increase the ROI of
+cloud deployments.
+UiPath also lowers operational risks that could derail critical business
+processes and increase IT costs. Manual tasks are inherently prone to
+error, but robots are highly accurate. They execute tasks consistently and
+accurately, minimizing the potential for process-related errors.
+
+5Streamline governance and compliance
+requirements
+Regulatory compliance regarding data processing, privacy,
+security, and management is a growing concern for enterprises
+in virtually every market and industry.
+With more stringent compliance demands from regulations
+such as the Sarbanes-Oxley Act, the Health Insurance Portability
+and Accountability Act (HIPAA), and the European Union’s
+General Data Protection Regulation (GDPR), any opportunity to
+simplify compliance is welcome.
+Managing automated business processes through a centralized
+CoE provides complete transparency into compliance-related
+workflows. Companies can easily create a complete audit trail to
+demonstrate compliance with any regulatory requirements.
+Furthermore, enterprise-scale RPA can significantly reduce the
+number of errors made by human operators. Depending on
+the extent of digital workforce deployment, an organization
+may not face any risk of manual error at all. The organization
+eliminates potential security vulnerabilities that might arise
+from such mistakes, bolstering its security posture and helping
+it stay compliant.
+With the right enterprise-grade automation platform, processes
+that are required to adhere to regulatory guidelines or business
+rules run with improved accuracy. The risk of simple errors or
+oversights derailing compliance efforts is minimal.
+That same reliability extends to internal reporting mechanisms.
+Supported by UiPath Platform solutions, stakeholders can
+gather the necessary information, generate comprehensive
+reports, and disseminate those documents to the appropriate
+parties quicker and easier than before.
+Improve security
+Data security remains a major concern in every sector, with new
+threats emerging every year to infiltrate networks and access
+sensitive information. According to the Identity Theft Resource
+Center, the number of data breaches increased by 17% in 2019.
+In addition, the average cost of data breaches continues to
+climb, as do the associated expenses of remediation, regulatory
+compliance, and reputational damage.
+IBM found that a single data breach costs global businesses an
+average of $3.92 million. For US companies, the stakes are even
+higher, with the average cost of a data breach totalling nearly
+$8.2 million.
+Replacing manual IT processes with UiPath-managed tasks
+can help improve an organization’s security posture and better
+position it to prevent or respond to a costly data breach. As
+noted earlier, manual processes are inherently prone to error,
+increasing the likelihood of a human operator making a mistake
+that could lead to a significant security vulnerability. UiPath
+robots are less susceptible to these errors and, as such, help
+companies maintain a stable and secure IT footprint.
+Many of the compliance benefits of automation apply to
+security, as well, including accurate and timely reporting
+capabilities and the ability to execute business rules with
+precision. While RPA is not a security solution in and of itself, the
+resulting reliability and consistency of business processes help
+strengthen an organization’s overall security posture. However,
+it is essential to choose an RPA platform with centralized
+governance and security features to avoid introducing new
+potential security issues.
+
+Case Study: Reckitt, a leading global company, home to the world's best loved and trusted
+hygiene, health and nutrition brands used UiPath Automation Platform with the key goal to
+deliver always-on, always-available IT with the most delightful and futuristic service experience.
+In a span of little over a year Reckitt has deployed 80+ robots that has helped them achieve:
+
+20% cost savings in IT 10,000 business hours
+Operations served per month
+
+20% net promoter 7 months to recoup their
+score increase Automation Factory investment
+
+UIPATH.COM  |  IT’S TIME TO AUTOMATE YOUR IT INFRASTRUCTURE 6Enhance the customer experience
+Even when using RPA solely for back-office IT processes,
+companies can improve the customer experience for end
+users and consumers. Staff members have more time to focus
+on high-value projects that directly impact the customer
+experience, such as improving service delivery, updating
+products, and developing new solutions. According to Gartner,
+the use of RPA for front-office applications, including customer
+experience and sales functions, will increase by 30% by 2023.
+Lower operational expenses also lead to reduced prices as
+organizations can pass along cost savings to their customers.
+In cases where RPA doesn’t impact the customer experience
+directly, it may still offer experiential benefits by improving
+internal workflows and helping the organization run more
+efficiently and cost-effectively.
+Given today’s challenging cybersecurity landscape, regulatory
+compliance and data security protocols are important
+components of the customer experience. By demonstrating
+exemplary security protocols supported by RPA, businesses can
+show customers that they adhere to the latest best practices
+and are taking every measure to protect customers’ data and
+privacy. As a result, organizations can build greater trust among
+their customers and develop lasting relationships.
+The efficiency gains provided by RPA also impact the customer
+experience. For example, companies can launch new services
+and roll out product updates with shorter development cycles.
+In addition, developers have more time to address customer
+feedback and incorporate their demands into product releases.
+Whether launching new solutions or providing post-release
+support, organizations can provide products and services that
+exceed customer expectations.
+An end-to-end automation suite should integrate RPA with
+artificial intelligence and chatbot capabilities to create new
+opportunities to engage customers and deliver a better
+customer experience. AI-enabled chatbots offer more dynamic
+and successful user interactions, accelerating customer
+acquisition and boosting customer retention.
+Finally, the increased oversight and governance that
+enterprise-scale RPA provides make it easier for organizations
+to gather data on the customer experience and use those
+insights to fuel their customer outreach and engagement
+strategies.
+Enhance the employee experience
+IT teams also stand to benefit immensely from RPA
+implementation and expansion, thanks to the dramatic
+reduction in onerous, time-consuming work and increased
+opportunities to focus on high-value projects. A 2018 Deloitte
+global survey found that, on average, RPA programs delivered
+20% full-time equivalent capacity within the first 12 months of
+implementation.
+A UiPath Platform implementation supports self-service
+capabilities, allowing dedicated citizen developers and
+stakeholders to design, build, and share their own robots.
+Employees are empowered to create the automation solutions
+that address their unique needs. Many RPA programs combine
+top-down and bottom-up deployment models, simultaneously
+addressing high-level business challenges and day-to-day
+bottlenecks that are a drain on the organization’s productivity.
+Giving employees the agency to identify ideal automation
+candidates at project launch and later design their own
+software robots enables IT staff to determine how RPA can
+address the most pressing issues.
+Ultimately, eliminating mundane tasks and providing more
+time to work on high-value projects can have a profound
+impact on employee morale, engagement, and productivity.
+
+80% reduction in average 0% error rate
+handling time
+
+Example: A large European bank automated their IT service management and user management processes
+using the UiPath Platform—resulting in an 80% reduction in average handling time and a 0% error rate.
+
+UIPATH.COM  |  IT’S TIME TO AUTOMATE YOUR IT INFRASTRUCTURE 7Drive innovation throughout the enterprise
+When first implementing and piloting RPA, stakeholders
+typically focus on automating processes that produce
+immediate and high-profile results. After the low-hanging
+fruit has been cleared away, teams can explore innovative
+applications that can shape the future of the organization. Such
+transformative projects are possible with an enterprise-grade
+automation platform.
+The UiPath Platform incorporates artificial intelligence to
+expand the functionality of software robots to manage more
+complex processes and dynamically respond to shifting
+parameters and requirements.
+The various employee experience benefits discussed earlier
+support IT staff recruitment and retention, helping IT
+leaders recruit the best candidates and keep them with the
+organization.
+As companies reduce the burden of mundane work on their
+IT workforce and provide more freedom to explore RPA
+applications, they can attract highly skilled IT professionals who
+are innately driven to innovate.
+The UiPath Platform can also position CIOs and IT leaders as
+strategic business partners who drive innovation throughout
+the organization. Automation is now a requirement for more
+extensive digital transformation, laying the foundation to
+incorporate new technologies and optimize internal processes.
+According to The Economist, 69% of C-level executives view
+software automation, such as RPA, as a high priority for their
+organizational strategy.
+RPA can also position CIOs and IT leaders as strategic business
+partners who drive innovation throughout the organization.
+
+User Management
+
+Chatbot Self service portal Service desk
+
+User request API API Pooling/trigger
+Desktop
+
+Start job / via orchestrator API Add request as
+Tablet Add request info to orchestrator queue as new item new queue item
+
+Orchestrator
+Start job Trigger on new
+Evaluate request type from queue item and start associated job queue item added
+Mobile Queres
+Robot Triggers
+Start job
+Add/remove application access
+Unlock user account Assets
+Reset user’s password
+
+UIPATH.COM  |  IT’S TIME TO AUTOMATE YOUR IT INFRASTRUCTURE 8UiPath IT Automation enables Green IT
+
+Many organizations are now planning their digital transformation journey with sustainability in mind. They are exploring new ways
+to incorporate green IT into their management strategies through initiatives such as reducing compute power, and automation is
+playing a leading role in the effort.  Automation can reduce IT’s carbon footprint by helping complete tasks faster, with less energy
+expended. For example, an IT help desk could reduce compute power more than 50% by resolving common requests in minutes
+versus hours. Another use case is the automation of the nightly migration of all virtual machines in an on-premises data center onto
+one host and powering down the other hosts to reduce the data center’s overall resource consumption.
+
+UiPath automation Center of Excellence (CoE) has adopted the various IT Automation capabilities across the enterprise.
+With the virtual machines enrolled for automation, UiPath CoE has achieved:
+
+65% 98% 30%
+less cloud compute reduction in compute less compute yearly
+yearly usage from yearly usage with AHT usage of IT Ops
+running a more for ITSM and cyber Robots through RAS
+efficient infrastructure security autoscaling
+
+UIPATH.COM  |  IT’S TIME TO AUTOMATE YOUR IT INFRASTRUCTURE 9What can you automate with UiPath?
+
+RPA solutions have countless potential uses in IT environments, given the many repetitive and relatively simple processes
+teams must oversee. UiPath is uniquely positioned to help organizations jumpstart their RPA programs, due to its working
+relationship with leading IT vendors. These partnerships support seamless integration across the IT ecosystem, including
+some of the most widely used software and technology platforms in the world.
+The UiPath automation platform goes beyond user interface (UI) automation. It supports a broader vision of holistic
+automation, including UI, testing, IT, APIs, business process management, and other built-in integrations running in the
+background. The UiPath automation platform offers more than 500 pre-built activities that empower customers to automate
+almost every area of their IT ecosystem—cloud-based and on-premises. It supports automation use cases in areas such as user
+and infrastructure management, as well as security orchestration and audit functions.
+
+Automate cloud orchestration and management processes
+The UiPath automation platform integrates with leading cloud service providers, such as Microsoft Azure, Amazon Web
+Services (AWS), and Google Cloud Platform (GCP). It works with public, private, and hybrid cloud environments and
+streamlines mission-critical activities such as server deployment, storage, configuration, and management. It also supports
+security orchestration automation and response (SOAR) tasks, further bolstering data security efforts.
+
+Automate desktop and app virtualization processes
+The out-of-the-box activity packages offered with the UiPath automation platform automate processes related to desktop-
+as-a-service (DaaS) and application-as-a-service for provisioning Windows and Linux cloud-based virtual desktops. With
+these packages, IT teams can easily automate processes for the provisioning, management, and maintenance of desktop
+virtualization services. Tasks that can be automated include provisioning/removing virtual desktops during employee
+onboarding/offboarding, as well as managing, modifying, and migrating virtual desktops and creating related reports.
+
+Infrastructure Management
+
+Data center
+
+Public cloud
+VDIs Apps Active Exchange Databases File Applications
+directory shares
+
+Internet Network
+Hypervisor
+
+Storage
+
+API req. API req.
+
+Running job Queues
+Triggers
+Processes Triggers
+Processes
+Activities Robot assets login Assets Orchestrator
+
+Out-of-the-box IT automation integrations
+Activities / Connectors / APIs / Ui drivers
+
+Powershell, C#, VB, Python MS Hyper-V Citrix VMware Virtual Identity Networking Atlassian SAP
+terminal Java XenServer vCenter, ESX machines services
++ more
+
+DBMS Http/ Soap FTP Exchange Citrix Active Storage Databases Security Servicenow Oracle
+json, xml Server VDI directory
+
+UIPATH.COM  |  IT’S TIME TO AUTOMATE YOUR IT INFRASTRUCTURE 10Automate server virtualization
+The seamless integration of the UiPath platform and the
+leading hypervisor platforms (VMware, Citrix, Hyper-V) allows IT
+departments to accelerate and streamline server virtualization
+processes. UiPath offers pre-built templates to provision new
+virtual machines with ease. Stakeholders can also manage
+their virtual machines with a variety of RPA-enabled functions
+that are available out of the box. IT organizations can easily
+automate processes for on-demand management and
+maintenance of virtual machines. IT teams can also task robots
+with managing virtual machine availability cycles (including
+VM rebooting, power on/offs, and checkpoint management),
+automating those processes, and controlling their associated
+costs. UiPath software robots can make critical IT scenarios—
+such as provisioning, infrastructure management, green
+computing, onboarding new employees, and continuous
+integration—much more efficient.
+Automation with Microsoft platforms
+UiPath robots can operate through integrations built on top
+of Microsoft APIs, so companies can seamlessly integrate RPA
+with their existing systems and workflows. These extensive
+integrations lower the barrier to entry for IT organizations that
+are rolling out their first RPA initiatives and reduce setup time for
+teams expanding their program to automate new processes. More
+than 200 integrations are available for Microsoft technologies and
+products, supporting pure IT applications.
+DevOps teams can take advantage of UiPath’s direct compatibility
+with Azure DevOps Services to manage projects and facilitate
+collaboration and communication between developers and
+operations teams. RPA applications include automating the
+creation of projects and groups and assigning tasks to specific
+users and teams.
+The Activity Packs for Azure Active Directory (AD) and Microsoft
+Active Directory enable an IT organization to easily automate
+important operations with Azure AD objects such as users,
+groups, lifecycle policies, Office365 licenses, and directory
+roles. Complex business processes and repetitive tasks, such as
+unlocking user accounts and resetting passwords (triggered by
+chatbot, email, or SMS), can be completed by robots.
+IT teams can now easily provision and manage user accounts
+for Azure Active Directory through access to Microsoft Teams
+and Microsoft Office 365. They can set up mailboxes for new
+employees in both Exchange and Microsoft Office 365 using fully
+automated workflows that require no direct manual intervention.
+User management is another area where RPA offers compelling
+benefits. Using UiPath Robots, IT organizations can automate
+processes across the entire user management workflow, including:
+■	Employee onboarding and offboarding
+■	Application and Identity Access management
+■	Mailbox configuration
+■	Manage account access requests
+IT leaders can quickly integrate RPA solutions with the processes
+listed above and start generating ROI immediately.
+10 server migrations per hour
+(from 2 hours to under 10 minutes
+with 10 robots working in parallel)
+Example: A leading Indian bank achieved close to
+10 server migrations per hour during a large-scale
+migration of servers and data from Windows Server
+2008 to Windows Server 2012. Migration time went from
+two hours to under 10 minutes with 10 robots working
+in parallel and with one or two monitoring the process.
+
+The UiPath Automation Platform seamlessly integrates with most of the industry leading IT platforms, including:
+
+Cloud Data center I TSM Desktop & App Virtualization
+Azure VMware Active directory Amazon Web Services Workspaces
+Amazon Web Services Citrix Azure Active Directory Azure Virtual Desktop
+Google Cloud Platform HyperV Exchange
+System Center Office 365
+ServiceNow
+Atlassian
+
+UIPATH.COM  |  IT’S TIME TO AUTOMATE YOUR IT INFRASTRUCTURE 11Automation in action: how IT teams use UiPath
+
+ITSM and user management
+User management workflows provide clear examples of how
+the UiPath Platform accelerates, streamlines, and improves IT
+processes. User management plays a major role in the day-to-day
+logistics of supporting IT solutions such as Azure Active Directory.
+These processes have become even more complicated in light of
+the COVID-19 crisis and the dramatic shift toward remote work
+strategies. As more employees work from home and require
+remote support from IT staff, user management tasks continue
+to grow in both complexity and importance. IT teams need to
+provision the technologies necessary for remote work and manage
+user access while accounting for numerous variables and external
+factors that come with supporting diverse working environments.
+The Platform simplifies and streamlines user management
+processes, helping IT organizations quickly respond to employee
+requests and maintain a stable, secure enterprise environment.
+During the onboarding process, for instance, robots can automate
+the delivery of digital resources to outfit new hires with everything
+they need from day one.
+Cybersecurity and access control
+Given the current state of cybersecurity around the world and the
+clear and immediate danger presented by cybercrime and other
+threats, access management is an equally critical component to
+enterprise user management.
+Using UiPath Robots, IT organizations can automate various
+user permissions verification processes, dramatically reducing
+the amount of time and energy required to manage these tasks
+without compromising enterprise security or data integrity.
+Software robots can quickly cross-reference user requests with
+permission controls to grant access to authorized users while
+revoking access rights to other applications whenever necessary.
+It is worth reiterating the cybersecurity benefits that UiPath
+Robots offer, especially with regard to access management and
+control. UiPath Robots are able to consistently and accurately
+enforce password usage and user access policies.
+Beyond those tasks, UiPath offers additional security capabilities
+out of the box, including software robots that can perform SOAR
+measures to remediate security incidents and comply with
+security standards such as ISO and SOC.
+Cloud management
+With the increased adoption of cloud computing and hybrid
+technologies, the IT landscape is getting more complex to
+manage. With UiPath Automation Platform, IT teams can
+streamline mission-critical server deployment, storage,
+configuration, and management. Being fully integrated with all
+leading cloud service providers, virtual machines can be easily
+orchestrated, reducing the compute usage.
+
+Security
+Orchestration
+(SOAR)
+
+UIPATH.COM  |  IT’S TIME TO AUTOMATE YOUR IT INFRASTRUCTURE 12Deploying the UiPath Expand your automation
+Automation Platform
+our internal CoE for infrastructure
+IT Ops was able to
+achieve: Once IT organizations have created a solid foundation for their RPA programs, new
+opportunities will open up to expand automation and improve various enterprise
+processes.
+85% IT leaders
+workload reduction IT leaders and stakeholders should fully explore these opportunities and look for ways
+with CVM and to incorporate RPA into existing workflows
+20,000+ brute force Regardless of how mature a company’s RPA program is, there is always room for
+attack blocks improvement and expansion.
+According to The Economist, although 91% of organizations leverage automation in
+98% some capacity, only a little more than half (51%) use it extensively.
+IT organizations
+reduction in average IT organizations should review existing workflows throughout the enterprise and
+handling time of IT identify processes that are ideal candidates for automation
+ticketing leading For example, IT teams can incorporate additional robots into the employee
+to saving 15% onboarding process to automate the creation of user accounts and employee
+workload/year mailboxes.
+As stakeholders continue to experiment with RPA, assess their current IT environment,
+and build their own custom robots, they will find new avenues to expand IT
+capabilities and significantly improve essential business processes. IT leaders should
+also collaborate with other business units to develop and support a more holistic
+automation strategy for the entire company. IT organizations are ideally situated
+to not only pilot new RPA solutions, but to expand them into other corners of the
+enterprise since automation is already so pervasive in IT workflows.
+A 2019 Economist Intelligence Unit report found that IT surpasses all other business
+units in automation penetration, with two-thirds (67%) of respondents stating that
+more than half of all of their processes are already automated.
+
+Other departments
+As other departments, like finance, human resources, marketing and sales, begin
+investigating their own RPA applications, IT organizations can help spearhead those
+projects and get them off the ground.
+Due to UiPath’s close partnership with industry leading IT vendors, IT teams can take
+advantage of seamless integration capabilities across their existing platforms and
+applications to expand the reach of RPA as far as they can. Because cloud, server, and
+desktop virtualization, software and systems are so prevalent in today’s corporate
+world, those platforms are ideal launching pads for RPA implementations that can
+later extend into other systems within the organization’s IT ecosystem.
+
+UIPATH.COM  |  IT’S TIME TO AUTOMATE YOUR IT INFRASTRUCTURE 13How to get started on IT automation with UiPath
+
+UiPath offers a number of different ways to launch new RPA
+programs and introduce robots into additional environments
+and workflows. UiPath has more than 500 out-of-the-box
+IT focused integrations to help streamline implementation,
+produce quick results, and generate undeniable ROI.
+UiPath users will also find numerous activities available out of
+the box to start building their own custom robots to automate
+whatever processes present the clearest and most immediate
+ROI. IT organizations can use these free UiPath Activities to
+quickly launch RPA projects and tailor their implementations
+according to their specific needs.
+Exploring the benefits of the UiPath Platform requires very little
+upfront investment from businesses that want to test the waters
+before fully committing to this technology. The free Community
+Edition is a great way for organizations to start their RPA journey,
+without devoting a lot of capital to a new technology platform.
+UiPath also offers hands-on training and support materials to
+educate staff and teach them how to build, design, and deploy
+RPA bots of their own. Establishing a team of citizen developers
+is an important step toward developing a holistic enterprise-
+wide automation strategy, and UiPath provides all the guidance
+needed to build a dedicated group of RPA advocates.
+IT organizations face a number of seemingly daunting obstacles
+and conflicting directives, but RPA, and AI specifically, can help
+ease these challenges and reshape IT into a model of operational
+efficiency, cost-effectiveness, and business innovation.
+Wherever you are on your RPA journey, there are always new
+opportunities to expand automation and improve critical
+processes.
+Try our IT Automation workflows
+from our Marketplace
+
+Get started on your automation journey
+
+Talk to a UiPath expert and see how you can get started.
+
+References
+1  Deloitte, https://www2.deloitte.com/us/en/insights/focus/tech-trends/2020/future-of-it-and-finance-funding-innovation-at-the-speed-of-agile.
+html?id=us:2sm:3ab:di6554:eng:dup:042020:finfutit&pkid=1006938&dysig_tid=ebd24b09d45d4221acd93006bc431fec
+2  Spiceworks, https://www.spiceworks.com/marketing/state-of-it/report/
+3  Erik Brynjolfsson, https://www.brynjolfsson.com/remotework/
+4  Gartner, https://www.gartner.com/smarterwithgartner/9-future-of-work-trends-post- covid-19/
+5  RPA Today, https://www.rpatoday.net/news/gartner-predicts-rpa-will-grow-significantly-in-2020-as-part-of-hyperautomation/
+6  KPMG Advisory, https://advisory.kpmg.us/articles/2019/extreme-automation.html
+7  MarketWatch, https://www.marketwatch.com/story/data-breaches-soared-by-17-in-2019-but-theres-some-good-news-too-2020-01-29
+8  IBM, https://www.ibm.com/security/data-breach
+9  Gartner, https://www.gartner.com/en/documents/3976135/predicts-2020-rpa-renaissance-driven-by-morphing-offerin
+10  Deloitte, https://www2.deloitte.com/bg/en/pages/technology/articles/deloitte-global-rpa-survey-2018.html
+11  The Economist, https://automationfirst.economist.com/automation-maturity-infographic/
+12  Flexera, https://info.flexera.com/SLO-CM-REPORT-State-of-the-Cloud-2020
+13  The Economist, https://automationfirst.economist.com/wp-content/uploads/2019/06/EIU-UiPath-The-advance-of-automation-briefing-paper.pdf
+14  Service Desk Institute, https://www.servicedeskinstitute.com/insight-resource/a-view-from-the-frontline-2019/
+15  Flexera, https://www.flexera.com/about-us/press-center/rightscale-2019-state-of-the-cloud-report-from-flexera-identifies-cloud-adoption-trends.html
+* ivanti.com  // Remote work Survey Report (2020)
+
+UIPATH.COM  |  IT’S TIME TO AUTOMATE YOUR IT INFRASTRUCTURE 14
